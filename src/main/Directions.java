@@ -1,6 +1,8 @@
 package main;
+//!!!!
 
 public class Directions {
+	private final int hh =5;
 	private final int ROOM_LENGTH = 5; // size of the room string
 	private char building ;
 	private char floor;
